@@ -1,0 +1,11 @@
+﻿AC Arquitectura de Computadores
+false 2 6,5
+LSD Lógica e Sistemas Digitais
+
+Objectives
+
+Results
+
+AvaliationResults
+
+ResumedProgram

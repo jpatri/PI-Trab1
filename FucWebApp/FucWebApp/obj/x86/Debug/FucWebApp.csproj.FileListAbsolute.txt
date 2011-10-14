@@ -1,0 +1,8 @@
+D:\My Work\Isel\PI\i1112\trab1\FucWebApp\FucWebApp\bin\Debug\FucWebApp.exe
+D:\My Work\Isel\PI\i1112\trab1\FucWebApp\FucWebApp\bin\Debug\FucWebApp.pdb
+D:\My Work\Isel\PI\i1112\trab1\FucWebApp\FucWebApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Work\Isel\PI\i1112\trab1\FucWebApp\FucWebApp\obj\x86\Debug\FucWebApp.exe
+D:\My Work\Isel\PI\i1112\trab1\FucWebApp\FucWebApp\obj\x86\Debug\FucWebApp.pdb
+D:\My Work\Isel\PI\i1112\trab1\FucWebApp\FucWebApp\bin\Debug\FucWebApp.exe.config
+D:\My Work\Isel\PI\i1112\trab1\FucWebApp\FucWebApp\bin\Debug\PI.WebGarten.dll
+D:\My Work\Isel\PI\i1112\trab1\FucWebApp\FucWebApp\bin\Debug\PI.WebGarten.pdb
